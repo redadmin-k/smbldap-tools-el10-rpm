@@ -1,0 +1,22 @@
+2026-05-02 07:02:20,317 - Mock Version: 6.7
+2026-05-02 07:02:20,319 - Start(bootstrap): chroot init
+2026-05-02 07:02:20,324 - Start(bootstrap): cleaning package manager metadata
+2026-05-02 07:02:20,325 - Finish(bootstrap): cleaning package manager metadata
+2026-05-02 07:02:20,561 - Finish(bootstrap): chroot init
+2026-05-02 07:02:20,562 - Start: chroot init
+2026-05-02 07:02:20,565 - Start: cleaning package manager metadata
+2026-05-02 07:02:20,567 - Finish: cleaning package manager metadata
+2026-05-02 07:02:20,789 - Start: installing minimal buildroot with dnf
+2026-05-02 07:02:58,322 - Finish: installing minimal buildroot with dnf
+2026-05-02 07:02:58,564 - Start: creating root cache
+2026-05-02 07:03:01,872 - Finish: creating root cache
+2026-05-02 07:03:01,872 - Finish: chroot init
+2026-05-02 07:03:02,045 - Start: build phase for smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:02,045 - Start: build setup for smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:24,436 - Finish: build setup for smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:24,437 - Start: rpmbuild smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:24,437 - Start: Outputting list of installed packages
+2026-05-02 07:03:24,649 - Finish: Outputting list of installed packages
+2026-05-02 07:03:28,890 - Finish: rpmbuild smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:28,892 - Finish: build phase for smbldap-tools-0.9.11-25.el9.src.rpm
+2026-05-02 07:03:28,894 - Finish: run
